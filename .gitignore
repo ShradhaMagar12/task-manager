@@ -1,0 +1,15 @@
+# Maven Build Outputs
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies (optional, Maven handles this)
+.m2/
